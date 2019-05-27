@@ -1,0 +1,1 @@
+A simple Blake2b and Blake2s following RFC-7693
