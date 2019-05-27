@@ -1,4 +1,4 @@
-use blake2::blake2b::hash;
+use rfc7693::blake2b::hash;
 
 fn main() {
     let mut message: Vec<u64> = Vec::new();
